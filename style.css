@@ -1,0 +1,67 @@
+*body{
+    margin: 0%;
+    padding: 0%;
+    background-color: white;
+
+}
+.link{
+    color: white;
+}
+.heading{
+    margin-top: 1%;
+    margin-bottom: 0%;
+    text-align: center;
+    background-color: black;
+   color: white;
+}
+.col{
+    margin-top: 0%;
+    padding-left: 0%;
+    display: flex;    
+    background-color: rgb(218, 47, 47);
+}
+.container{
+    display: flex;
+    color: white;
+    cursor: pointer;
+   
+}
+.container h6{
+    padding: 0 5px;
+}
+ .logo img{
+    color: white;
+    width: 20px;
+
+ }
+ .news{
+     padding-left: 350px;
+     padding-right: 350PX;
+ }
+ .size{
+    padding-left: 350px;
+    padding-right: 850PX;
+ }
+ .photo{
+     width: 150px;
+     margin: bottom 10px;;
+      
+
+ }
+ .text{
+     margin-top: -16%;
+     padding-left: 160px;
+ }
+ .most{
+   
+    margin-right:  0; ;
+ }
+ .const{
+     background-color: black;
+     color: white;
+
+ }
+ 
+  
+  
+ 
